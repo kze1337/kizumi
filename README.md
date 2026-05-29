@@ -24,7 +24,7 @@ Setup instruction: (remember to open ufw port 8090 first for lavalink)
 
 +  run main.py and enjoy (just "python3 main.py")
 
-+  also remember to chmod and run the extra.sh if after main.py say any error,if your last terminal like this picture,your bot are ready tho
++  also remember to chmod and run the extra.sh if after main.py say any error,if your last terminal look like this picture,your bot are ready tho
 +  enjoy the bot,intive,and type " / " and explore your bot (prefix dies,sadge)
 
 <img width="976" height="616" alt="image" src="https://github.com/user-attachments/assets/babd5f7f-f9af-4130-b0b5-9704f07cb8b3" />
