@@ -6,7 +6,11 @@ sudo apt install ffmpeg
 
 echo "Đang cài đặt LIB"
 
-python3 -m pip install -r ./requirements.txt
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r ./requirements.txt
 
 echo "Đã cài đặt thành công!!!"
 
