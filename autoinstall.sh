@@ -6,6 +6,8 @@ sudo apt install ffmpeg
 
 echo "Đang cài đặt LIB"
 
+sudo apt install python3-venv
+
 python3 -m venv venv
 
 source venv/bin/activate
