@@ -1,6 +1,6 @@
-# RE-AYAKAPJ (!DONE)
+# kizumi (!DONE)
 
 THIS PROJECT IS (NOT) COMPLETE, THANKS FOR USING
-
+*jst a bot that customized by me
 --- LAST UPDATED ---
-* 15/03/2025
+* xx/05/2026
