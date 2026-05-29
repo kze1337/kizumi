@@ -2,7 +2,7 @@
 
 echo "Đang tiến hành cài đặt.."
 
-sudo apt install ffmpeg python3-venv -y
+sudo apt install ffmpeg -y
 
 echo "Đang cài đặt LIB"
 
