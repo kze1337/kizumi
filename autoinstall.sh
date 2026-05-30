@@ -2,7 +2,7 @@
 
 echo "Đang tiến hành cài đặt.."
 
-sudo apt install ffmpeg -y
+sudo apt install ffmpeg openjdk-17-jdk openjdk-17-jre -y
 
 echo "Đang cài đặt LIB"
 
