@@ -33,7 +33,7 @@ Setup instruction: (remember to open ufw port 8090 first for lavalink)
 -  sudo mv lavalink.service.example /etc/systemd/system/lavalink.service
 -  sudo systemctl enable lavalink
 -  sudo systemctl start lavalink   #this is run test,wait some minute
--  sudo systemctl status lavalink  #if the log say "lavalink is now accpect the connection or any look like this,lavalink is working
+-  sudo systemctl status lavalink  #if the log say "lavalink is now accpect the connection or any look like this,lavalink is working,if not,try reboot your system
 *
 
 +  reboot your system for good thing,and the lavalink will auto start after reboot if you config it
