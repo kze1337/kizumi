@@ -22,7 +22,9 @@ Setup instruction: (remember to open ufw port 8090 first for lavalink)
 +  run the requirements.txt again for make sure all needed part is installed
 -  pip install -r ./requirements.txt
 
-+  run main.py and enjoy (just "python3 main.py")
++  reboot your system
+
++  activate the venv again and run main.py ,enjoy (just "python3 main.py")
 
 +  also remember to chmod and run the extra.sh if after main.py say any error,if your last terminal look like this picture,your bot are ready tho
 +  enjoy the bot,intive,and type " / " and explore your bot (prefix dies,sadge)
