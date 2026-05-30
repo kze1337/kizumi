@@ -4,7 +4,7 @@ THIS PROJECT IS (NOT) COMPLETE, THANKS FOR USING
 *jst a bot that customized by me
 --- LAST UPDATED ---
 * xx/05/2026
-
++  some of note:if you too laze to read these instruction,or if not working,consider contact me for install,i'm recommend that you run in a test environment so you can just delete and install again if fail.
 Setup instruction: (remember to open ufw port 8090 first for lavalink,not recommended to run as root user or the VPS is running other server that may cause conflic)
 +just remember to update your system 
 
