@@ -23,7 +23,7 @@ Setup instruction: (remember to open ufw port 8090 first for lavalink)
 -  pip install -r ./requirements.txt
 
 *optional
-+  create systemd service for run lavalink in background (if the main.py trying to connect lavalink too long or stuck at it):
++  if the main.py took too long trying to connect to lavalink,Ctrl+C to kill the processes,then create systemd service for manualy run lavalink in background:
 +  make sure to review and edit the lavalink.service.example to math with your username (also the exec path)
 -  sudo mv lavalink.service.example /etc/systemd/system/lavalink.service
 -  sudo systemctl enable lavalink
