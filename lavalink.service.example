@@ -1,10 +1,10 @@
 [Unit]
-Description=Lavalink Audio Server,remember to replace <your_user> with your user name.
+Description=Lavalink Audio Server
 After=network.target
 
 [Service]
 Type=simple
-User=your_user
+User=your_user  #your_actual_user_name
 WorkingDirectory=/home/your_user/kizumi  #this_repo_folder_or_whatever_you_set
 ExecStart=/usr/bin/java -jar /home/your_user/kizumi/Lavalink.jar   
 Restart=always
