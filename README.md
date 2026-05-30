@@ -42,8 +42,11 @@ THIS PROJECT IS (NOT) COMPLETE, THANKS FOR USING
 
 +  activate the venv again and run main.py ,enjoy (just "python3 main.py")
 
-+  also remember to chmod and run the extra.sh if after main.py say any error(Ctrl+C first),if your last terminal look like this picture,your bot are ready tho
-+  enjoy the bot,intive,and type " / " and explore your bot (prefix dies,sadge)
++  also remember to chmod and run the extra.sh if after main.py say any error look like this(Ctrl+C first),
+  <img width="982" height="616" alt="image" src="https://github.com/user-attachments/assets/9b81b1ed-c29e-49fe-804a-7082235671f9" />
 
-<img width="976" height="616" alt="image" src="https://github.com/user-attachments/assets/babd5f7f-f9af-4130-b0b5-9704f07cb8b3" />
++  if your terminal output look like this,then time to test and enjoy the bot,intive,and type " / " and explore your bot (prefix dies,sadge)
+
+<img width="976" height="622" alt="image" src="https://github.com/user-attachments/assets/11ceae01-f473-462d-aa4a-c1411ad79fb6" />
+
 
