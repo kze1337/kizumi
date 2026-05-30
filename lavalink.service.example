@@ -1,0 +1,16 @@
+[Unit]
+Description=Lavalink Audio Server,remember to replace <your_user> with your user name.
+After=network.target
+
+[Service]
+Type=simple
+User=your_user
+WorkingDirectory=/home/your_user/lavalink
+ExecStart=/usr/bin/java -jar /home/byour_user/lavalink/Lavalink.jar   
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
