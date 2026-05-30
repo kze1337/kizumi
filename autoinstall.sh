@@ -2,7 +2,7 @@
 
 echo "Đang tiến hành cài đặt.."
 
-sudo apt install ffmpeg openjdk-17-jre-headless openjdk-17-jdk openjdk-17-jre python3.11-venv -y
+sudo apt install ffmpeg openjdk-17-jre-headless openjdk-17-jdk openjdk-17-jre python3-venv -y
 
 echo "Đang cài đặt LIB"
 
