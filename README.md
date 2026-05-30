@@ -5,7 +5,7 @@ THIS PROJECT IS (NOT) COMPLETE, THANKS FOR USING
 --- LAST UPDATED ---
 * xx/05/2026
 
-Setup instruction: (remember to open ufw port 8090 first for lavalink)
+Setup instruction: (remember to open ufw port 8090 first for lavalink,not recommended to run as root user or the VPS is running other server that may cause conflic)
 +just remember to update your system 
 
 +  clone this repo and cd to repo's folder
