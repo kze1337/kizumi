@@ -11,6 +11,8 @@ Setup instruction: (remember to open ufw port 8090 first for lavalink)
 +  clone this repo and cd to repo's folder
 +  give the autoinstall.sh perm to excute "chmod +x autoinstall.sh"  then "./autoinstall.sh"
 
++  reboot your system
+
 +  prepare the .env:
 -
 -  mv .env.example .env
